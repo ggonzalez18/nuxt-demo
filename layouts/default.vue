@@ -110,6 +110,11 @@ export default {
           icon: 'mdi-eye',
           title: 'post',
           to: '/post'
+        },
+        {
+          icon: 'mdi-account-group',
+          title: 'rickyandmorty',
+          to: '/rickyandmorty'
         }
       ],
       miniVariant: false,
